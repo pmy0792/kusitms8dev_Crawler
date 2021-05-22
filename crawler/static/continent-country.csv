@@ -1,0 +1,266 @@
+﻿Continent,Country,Code
+Asia,아프가니스탄,AF
+Asia,아르메니아,AM
+Asia,아제르바이잔,AZ
+Asia,방글라데시,BD
+Asia,브루나이,BN
+Asia,부탄,BT
+Asia,중국,CN
+Asia,홍콩,HK
+Asia,인도네시아,ID
+Asia,인도(인디아),IN
+Asia,일본,JP
+Asia,키르기스스탄,KG
+Asia,캄보디아,KH
+Asia,카자흐스탄,KZ
+Asia,라오스,LA
+Asia,스리랑카,LK
+Asia,미얀마,MM
+Asia,몽골,MN
+Asia,마카오,MO
+Asia,몰디브,MV
+Asia,말레이시아,MY
+Asia,네팔,NP
+Asia,필리핀,PH
+Asia,파키스탄,PK
+Asia,싱가포르,SG
+Asia,태국,TH
+Asia,타지키스탄,TJ
+Asia,동티모르,TL
+Asia,투르크메니스탄,TM
+Asia,티모르,TP
+Asia,대만,TW
+Asia,우즈베키스탄,UZ
+Asia,베트남,VN
+Mid Eastern,아랍에미리트연합,AE
+Mid Eastern,바레인,BH
+Mid Eastern,알제리,DZ
+Mid Eastern,이집트,EG
+Mid Eastern,이스라엘,IL
+Mid Eastern,이라크,IQ
+Mid Eastern,이란,IR
+Mid Eastern,요르단,JO
+Mid Eastern,쿠웨이트,KW
+Mid Eastern,레바논,LB
+Mid Eastern,리비아,LY
+Mid Eastern,모로코,MA
+Mid Eastern,모리타니,MR
+Mid Eastern,중립지대,NT
+Mid Eastern,오만,OM
+Mid Eastern,팔레스타인해방기구,PS
+Mid Eastern,카타르,QA
+Mid Eastern,사우디아라비아,SA
+Mid Eastern,수단,SD
+Mid Eastern,시리아,SY
+Mid Eastern,튀니지,TN
+Mid Eastern,남예멘,YD
+Mid Eastern,예멘,YE
+Europe,안도라,AD
+Europe,알바니아,AL
+Europe,오스트리아,AT
+Europe,보스니아-헤르체고비나,BA
+Europe,벨기에,BE
+Europe,불가리아,BG
+Europe,벨라루스,BY
+Europe,스위스,CH
+Europe,세르비아와몬테네그로,CS
+Europe,키프로스,CY
+Europe,체코,CZ
+Europe,독일,DE
+Europe,덴마크,DK
+Europe,에스토니아,EE
+Europe,스페인,ES
+Europe,핀란드,FI
+Europe,파로에군도,FO
+Europe,프랑스,FR
+Europe,프랑스메트로폴리탄,FX
+Europe,영국,GB
+Europe,조지아,GE
+Europe,건지,GG
+Europe,지브롤터,GI
+Europe,그리스,GR
+Europe,남조지아&남샌드위치군도,GS
+Europe,크로아티아,HR
+Europe,헝가리,HU
+Europe,아일랜드,IE
+Europe,맨섬,IM
+Europe,아이슬란드,IS
+Europe,이탈리아,IT
+Europe,저지,JE
+Europe,리히텐슈타인,LI
+Europe,리투아니아,LT
+Europe,룩셈부르크,LU
+Europe,라트비아,LV
+Europe,모나코,MC
+Europe,몰도바,MD
+Europe,몬테네그로,ME
+Europe,세인트마틴,MF
+Europe,마케도니아,MK
+Europe,몰타,MT
+Europe,네덜란드,NL
+Europe,노르웨이,NO
+Europe,폴란드,PL
+Europe,포르투갈,PT
+Europe,루마니아,RO
+Europe,세르비아공화국,RS
+Europe,러시아,RU
+Europe,스웨덴,SE
+Europe,슬로베니아,SI
+Europe,스발바르제도,SJ
+Europe,슬로바키아,SK
+Europe,산마리노,SM
+Europe,소련,SU
+Europe,터키,TR
+Europe,우크라이나,UA
+Europe,교황청,VA
+Europe,마케도니아,YM
+Europe,유고슬라비아,YU
+Northern America,캐나다,CA
+Northern America,미국,US
+Southern America,앤티가바부다,AG
+Southern America,앵귈라,AI
+Southern America,네덜란드열도,AN
+Southern America,아르헨티나,AR
+Southern America,아루바,AW
+Southern America,바베이도스,BB
+Southern America,세인트바르탤르미,BL
+Southern America,버뮤다,BM
+Southern America,볼리비아,BO
+Southern America,영령안탁,BQ
+Southern America,브라질,BR
+Southern America,바하마,BS
+Southern America,벨리즈,BZ
+Southern America,칠레,CL
+Southern America,콜롬비아,CO
+Southern America,코스타리카,CR
+Southern America,쿠바,CU
+Southern America,큐라소,CW
+Southern America,도미니카,DM
+Southern America,도미니카공화국,DO
+Southern America,에콰도르,EC
+Southern America,포클랜드군도,FK
+Southern America,그레나다,GD
+Southern America,불령가이아나,GF
+Southern America,그린랜드,GL
+Southern America,과들루프,GP
+Southern America,과테말라,GT
+Southern America,가이아나,GY
+Southern America,온두라스,HN
+Southern America,아이티,HT
+Southern America,자메이카,JM
+Southern America,세인트키츠네비스,KN
+Southern America,영령캐이맨군도,KY
+Southern America,세인트루시아,LC
+Southern America,미드웨이군도,MI
+Southern America,마르티니크,MQ
+Southern America,몬트세랫,MS
+Southern America,멕시코,MX
+Southern America,니카라과,NI
+Southern America,파나마,PA
+Southern America,페루,PE
+Southern America,세인트피레미켈론,PM
+Southern America,푸에르토리코,PR
+Southern America,파라과이,PY
+Southern America,파나마운하지역,PZ
+Southern America,수리남,SR
+Southern America,엘살바도르,SV
+Southern America,투르크&카이코스군도,TC
+Southern America,트리니다드토바고,TT
+Southern America,우루과이,UY
+Southern America,세인트빈센트그레나딘,VC
+Southern America,베네수엘라,VE
+Southern America,영령버진아일랜드,VG
+Southern America,미령버진군도,VI
+Africa,앙골라,AO
+Africa,부르키나파소,BF
+Africa,부룬디,BI
+Africa,베냉,BJ
+Africa,부베섬,BV
+Africa,보츠와나,BW
+Africa,콩고민주공화국,CD
+Africa,중앙아프리카,CF
+Africa,콩고,CG
+Africa,코트디부아르,CI
+Africa,카메룬,CM
+Africa,카보베르데,CV
+Africa,지부티,DJ
+Africa,서사하라,EH
+Africa,에리트레아,ER
+Africa,에티오피아,ET
+Africa,가봉,GA
+Africa,가나,GH
+Africa,감비아,GM
+Africa,기니,GN
+Africa,적도기니,GQ
+Africa,기네비소,GW
+Africa,영령인도양,IO
+Africa,케냐,KE
+Africa,코모로,KM
+Africa,라이베리아,LR
+Africa,레소토,LS
+Africa,마다가스카르,MG
+Africa,말리,ML
+Africa,모리셔스,MU
+Africa,말라위,MW
+Africa,모잠비크,MZ
+Africa,나미비아,NA
+Africa,니제르,NE
+Africa,나이지리아,NG
+Africa,팔레스타인해방기구,PS
+Africa,"불령리유니온,코모도제도",RE
+Africa,르완다,RW
+Africa,세이셸,SC
+Africa,세인트헬레나,SH
+Africa,시에라리온,SL
+Africa,세네갈,SN
+Africa,소말리아,SO
+Africa,사우스수단,SS
+Africa,상투메프린스페,ST
+Africa,스와질란드,SZ
+Africa,차드,TD
+Africa,불령남부지역,TF
+Africa,토고,TG
+Africa,탄자니아,TZ
+Africa,우간다,UG
+Africa,마요트,YT
+Africa,남아프리카공화국,ZA
+Africa,잠비아,ZM
+Africa,자이르,ZR
+Africa,짐바브웨,ZW
+etc,남극대륙,AQ
+etc,아메리칸사모아,AS
+etc,호주,AU
+etc,코코스군도,CC
+etc,쿡아일랜드,CK
+etc,캔톤아일랜드,CT
+etc,크리스마스아일랜드,CX
+etc,피지,FJ
+etc,미크로네시아,FM
+etc,괌,GU
+etc,허드앤맥도날드군도,HM
+etc,존스턴섬,JT
+etc,키리바시,KI
+etc,마셜제도,MH
+etc,북마리아나군도,MP
+etc,뉴칼레도니아,NC
+etc,노폴크아일랜드,NF
+etc,뉴헤브리디스,NH
+etc,드롬힝마우드랜드,NQ
+etc,나우루,NR
+etc,니우에,NU
+etc,뉴질랜드,NZ
+etc,퍼시픽제도（미령）,PC
+etc,불령폴리네시아,PF
+etc,파푸아뉴기니,PG
+etc,핏케언섬,PN
+etc,퍼시픽아일랜드,PU
+etc,팔라우,PW
+etc,솔로몬군도,SB
+etc,토켈라우,TK
+etc,통가,TO
+etc,투발루,TV
+etc,마이너아우틀링합중국군도,UM
+etc,바누아투,VU
+etc,왈라스&퓨투나,WF
+etc,웨이크아일랜드,WK
+etc,사모아,WS
