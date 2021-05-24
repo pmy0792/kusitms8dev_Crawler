@@ -53,7 +53,7 @@ def scrape_pages(page_links,driver):
                     (By.XPATH, "//*[@id=\"tbody\"]/tr[{}]/td[4]/a".format(i+1))))
             link.click()
             memoir=make_memoir_obj(driver)
-            cau_df=cau_df.append({"Univ":"CAU",
+            cau_df=cau_df.append({"Univ":"중앙대학교",
                         "Field":memoir.field,
                     "College":memoir.college,
                     "Major":memoir.major,
@@ -119,9 +119,9 @@ def make_memoir_obj(driver):
         semester=driver.find_element_by_xpath("//*[@id=\"sendForm\"]/div/div[1]/table/tbody/tr[3]/td[2]").text
         field=decide_field(college)
         driver_info_list=driver.find_elements_by_css_selector("#sendForm > div > div.lineList_tbW > table > tbody > tr")[3:]
-        info_list=[d.text for d in driver_info_list]
+        info_list=[d.text.replace("\r","").replace("\n","#") for d in driver_info_list]
         info="".join(info_list)
-        memoir_obj=memoir_module.memoir("CAU",field,college,major,continent,country,ex_univ,semester,info)
+        memoir_obj=memoir_module.memoir("중앙대학교",field,college,major,continent,country,ex_univ,semester,info)
         return memoir_obj
 
 def decide_field(clg):

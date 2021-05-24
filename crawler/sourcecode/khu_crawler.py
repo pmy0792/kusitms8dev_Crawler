@@ -47,7 +47,7 @@ def scrape_page(url):
     df=pd.DataFrame(columns=["Univ","Field","College","Major","Continent","Country","Foreign Univ", "Semester","Info"])
     for post in post_list:
         memoir=make_memoir_obj(post)
-        df=df.append({"Univ":"KHU",
+        df=df.append({"Univ":"경희대학교",
                    "Field":memoir.field,
                    "College":memoir.college,
                    "Major":memoir.major,
@@ -84,8 +84,10 @@ def make_memoir_obj(post):
     info=""
     info_list=soup.find_all('tr')
     for i in info_list:
-        info+=i.text
-    memoir_obj=memoir_module.memoir("KHU",field,college,major,continent,country,ex_univ,semester,info)
+        s=i.text.replace("\r","").replace("\n","#")
+        info+=s
+
+    memoir_obj=memoir_module.memoir("경희대학교",field,college,major,continent,country,ex_univ,semester,info)
     return memoir_obj
 
 
